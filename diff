@@ -1,0 +1,71 @@
+index.html
+<header>
+  <div class="brand">
+    <img src="https://i.postimg.cc/wMdB4yjR/Hustlr.png" alt="Hustlr logo" />
+    Hustlr
+  </div>
+  <nav>
+    <a href="#features">Features</a>
+    <a href="#how">How it Works</a>
+    <a href="#">Get the App</a>
+    <a href="#">About Us</a>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <div>
+      <h1>Promote your hustle.<br>Hire with confidence.</h1>
+      <p>
+        Hustlr is a smart marketplace app that helps business owners promote their services
+        and find reliable people to hire — all in one place.
+      </p>
+      <a class="cta" href="#">Get Started</a>
+    </div>
+
+    <div class="hero-card">
+      <img src="https://i.postimg.cc/wMdB4yjR/Hustlr.png" alt="Hustlr app preview" />
+    </div>
+  </section>
+
+  <section id="features">
+    <div class="features">
+      <div class="feature">
+        <h3>Business Promotion</h3>
+        <p>Showcase your services, skills, and brand to people actively looking to hire.</p>
+      </div>
+      <div class="feature">
+        <h3>Find Skilled Workers</h3>
+        <p>Discover trusted freelancers, artisans, and professionals near you.</p>
+      </div>
+      <div class="feature">
+        <h3>Fast & Local</h3>
+        <p>Connect with people in your area and get jobs done faster.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="how">
+    <div class="how">
+      <div class="step">
+        <span>01</span>
+        <h3>Create a Profile</h3>
+        <p>Sign up and set up your business or worker profile in minutes.</p>
+      </div>
+      <div class="step">
+        <span>02</span>
+        <h3>Post or Browse</h3>
+        <p>Promote your services or browse listings from people ready to hire.</p>
+      </div>
+      <div class="step">
+        <span>03</span>
+        <h3>Connect & Work</h3>
+        <p>Chat, agree on terms, and get the job done.</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  © 2026 Hustlr. Built for hustlers everywhere.
+</footer>
