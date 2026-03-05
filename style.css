@@ -145,6 +145,7 @@ section {
   color: var(--primary);
 }
 
+/* About page styles */
 .about {
   padding: 80px 8%;
   max-width: 900px;
